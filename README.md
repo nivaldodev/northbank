@@ -5,5 +5,5 @@
 Sistema desenvolvido em:
 
 ```
-JAVA 1.8
+note app.js
 ```
