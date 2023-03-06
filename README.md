@@ -5,5 +5,5 @@
 Sistema desenvolvido em:
 
 ```
-note app.js
+node app.js
 ```
